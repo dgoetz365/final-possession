@@ -2,6 +2,10 @@
 
 A college basketball draft and coaching game. Build a twelve-player roster, set your rotation, and coach the important moments of a 64-team tournament.
 
+**[Play the live game](https://final-possession.danielgoetz301.chatgpt.site)** · [Project overview](https://dangoetz.me/projects#final-possession) · [About Dan Goetz](https://dangoetz.me)
+
+This is a personal sports simulation using historical player records, not a prediction of real games.
+
 ## Play on another computer
 
 1. Download [Final-Possession-Complete-2026-10-16.zip](Final-Possession-Complete-2026-10-16.zip) using the download button on its file page.
