@@ -2,7 +2,7 @@
 
 A college basketball draft and coaching game. Build a twelve-player roster, set your rotation, and coach the important moments of a 64-team tournament.
 
-**[Play the live game](https://final-possession.danielgoetz301.chatgpt.site)** · [Project overview](https://dangoetz.me/projects#final-possession) · [About Dan Goetz](https://dangoetz.me)
+**[Play the live game](https://final-possession.danielgoetz301.chatgpt.site)** · [About Dan Goetz](https://dangoetz.me)
 
 This is a personal sports simulation using historical player records, not a prediction of real games.
 
